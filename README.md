@@ -50,6 +50,7 @@ Open the Arduino IDE and write the following code which is uploaded in the (Ardu
 
 ## Observing the Output:
 Once the sketch is uploaded, the OLED display should show the temperature and humidity readings from the DHT sensor.
+![IMG20240707182026](https://github.com/vallamdasuniranjan/CODETECH-TASK2/assets/174948070/4f987171-1998-482c-a381-b8ae9649071a)
 
 ## Learning Outcomes:
 **1. Sensor Integration:** Learn how to connect and read data from the DHT sensor.  
