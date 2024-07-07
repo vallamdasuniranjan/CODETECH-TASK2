@@ -33,11 +33,11 @@ Setting Up the Hardware:
 3.Connect the DATA pin to a digital pin on the Arduino (e.g., pin 2).
 
 ## OLED Display Connections:
-1.Connect VCC to 3.3V or 5V on the Arduino
-(depending on the OLED module specifications).
-2.Connect GND to GND on the Arduino.
-3.Connect SCL to the SCL pin on the Arduino.
-4.Connect SDA to the SDA pin on the Arduino.
+
+1. Connect VCC to 3.3V or 5V on the Arduino (depending on the OLED module specifications).
+2. Connect GND to GND on the Arduino.
+3. Connect SCL to the SCL pin on the Arduino.
+4. Connect SDA to the SDA pin on the Arduino.
 
 ## Installing Required Libraries:
 1.Install the DHT library and Adafruit GFX and SSD1306 libraries for
