@@ -12,6 +12,7 @@ conditions and an OLED display to show the readings. This project helps in under
 basic microcontroller interfacing using an Arduino.
 
 ## Components Required:
+
 1.Arduino Board (e.g., Arduino Uno)
 2.DHT11 or DHT22 Sensor (for temperature and humidity measurements)
 3.OLED Display (e.g., 128x64 I2C OLED display)
@@ -19,6 +20,7 @@ basic microcontroller interfacing using an Arduino.
 5.Resistor (10k ohms for DHT22 if needed)
 
 ## Key Concepts:
+
 **1.Arduino Board:** A microcontroller platform used for building digital devices.
 **2.DHT Sensor:** Measures temperature and humidity. DHT11 is basic and less accurate, 
                   while DHT22 offers better precision.
@@ -28,6 +30,7 @@ basic microcontroller interfacing using an Arduino.
 Setting Up the Hardware:
 
 ## DHT Sensor Connections:
+
 1.Connect the VCC pin to 5V on the Arduino.
 2.Connect the GND pin to GND on the Arduino.
 3.Connect the DATA pin to a digital pin on the Arduino (e.g., pin 2).
@@ -59,6 +62,7 @@ Once the sketch is uploaded, the OLED display should show the temperature and hu
 readings from the DHT sensor.
 
 ## Learning Outcomes:
+
 **1.Sensor Integration:** Learn how to connect and read data from the DHT sensor.
 **2.Display Handling:** Understand how to interface with an OLED display and visualize data.
 **3.Arduino Programming:** Gain experience in writing and uploading Arduino sketches.
