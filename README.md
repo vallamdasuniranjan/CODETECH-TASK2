@@ -19,10 +19,10 @@ basic microcontroller interfacing using an Arduino.
 5.Resistor (10k ohms for DHT22 if needed)
 
 ## Key Concepts:
-1.**Arduino Board:** A microcontroller platform used for building digital devices.
-2.**DHT Sensor:** Measures temperature and humidity. DHT11 is basic and less accurate, 
+**1.Arduino Board:** A microcontroller platform used for building digital devices.
+**2.DHT Sensor:** Measures temperature and humidity. DHT11 is basic and less accurate, 
                   while DHT22 offers better precision.
-3.**OLED Display:** A screen that displays information using organic light-emitting diodes.
+**3.OLED Display:** A screen that displays information using organic light-emitting diodes.
 
 ## Steps to Implement the Project:
 Setting Up the Hardware:
@@ -59,10 +59,10 @@ Once the sketch is uploaded, the OLED display should show the temperature and hu
 readings from the DHT sensor.
 
 ## Learning Outcomes:
-1.**Sensor Integration:** Learn how to connect and read data from the DHT sensor.
-2.**Display Handling:** Understand how to interface with an OLED display and visualize data.
-3.**Arduino Programming:** Gain experience in writing and uploading Arduino sketches.
-4.**Data Monitoring:** Develop a basic system for real-time environmental monitoring.
+**1.Sensor Integration:** Learn how to connect and read data from the DHT sensor.
+**2.Display Handling:** Understand how to interface with an OLED display and visualize data.
+**3.Arduino Programming:** Gain experience in writing and uploading Arduino sketches.
+**4.Data Monitoring:** Develop a basic system for real-time environmental monitoring.
 
 By completing this project, you will gain valuable experience in working with sensors, displays, and microcontroller programming, which are
 foundational skills for more advanced IoT and embedded systems projects.
