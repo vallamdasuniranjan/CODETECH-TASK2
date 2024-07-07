@@ -36,7 +36,7 @@ The objective of this project is to create a temperature and humidity monitoring
 2. Connect GND to GND on the Arduino.
 3. Connect SCL to the SCL pin on the Arduino.
 4. Connect SDA to the SDA pin on the Arduino.
-
+![ARDUINO DHT11](https://github.com/vallamdasuniranjan/CODETECH-TASK2/assets/174948070/f9487030-e01a-40d7-a391-42f4d934cca3)
 ### Installing Required Libraries:
 1. Install the DHT library and Adafruit GFX and SSD1306 libraries for the OLED display from the Arduino Library Manager.
 
