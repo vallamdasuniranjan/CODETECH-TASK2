@@ -54,6 +54,7 @@ Once the sketch is uploaded, the OLED display should show the temperature and hu
 
 ## Learning Outcomes:
 **1. Sensor Integration:** Learn how to connect and read data from the DHT sensor.  
+![IMG_5251](https://github.com/user-attachments/assets/51a87563-7a5a-4c61-862b-f13ae53b4111)
 **2. Display Handling:** Understand how to interface with an OLED display and visualize data.  
 **3. Arduino Programming:** Gain experience in writing and uploading Arduino sketches.  
 **4. Data Monitoring:** Develop a basic system for real-time environmental monitoring.
