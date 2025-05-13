@@ -5,10 +5,10 @@
 **DURATION :** June - Aug 2024  
 **MENTOR   :** -  
 
-## Project Overview: Temperature and Humidity Monitoring System Using DHT Sensor and OLED Display
+## Project Overview: Temperature and Humidity Monitoring System Using DHT11 Sensor and OLED Display
 
 ## Objective:
-The objective of this project is to create a temperature and humidity monitoring system using a DHT sensor to measure environmental conditions and an OLED display to show the readings. This project helps in understanding sensor integration, data visualization, and basic microcontroller interfacing using an Arduino.
+The objective of this project is to create a temperature and humidity monitoring system using a DHT11 sensor to measure environmental conditions and an OLED display to show the readings. This project helps in understanding sensor integration, data visualization, and basic microcontroller interfacing using an Arduino.
 
 ## Components Required:
 1. Arduino Board (e.g., Arduino Uno)
